@@ -1,0 +1,13 @@
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\bin\Debug\loginScreen.exe.config
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\bin\Debug\loginScreen.exe
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\bin\Debug\loginScreen.pdb
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\bin\Debug\loginScreen.xml
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.vbproj.AssemblyReference.cache
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.Form1.resources
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.Resources.resources
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.vbproj.GenerateResource.cache
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.vbproj.CoreCompileInputs.cache
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.exe
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.xml
+C:\Users\Onyxia\Source\Repos\loginScreen\loginScreen\obj\Debug\loginScreen.pdb
